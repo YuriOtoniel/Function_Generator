@@ -1,0 +1,96 @@
+Circuit: * C:\Users\Yuri\Downloads\7 Semestre\Aplicações de Eletronica\P2\LTspice\FunctionGenerator.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u3:3)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u4:3)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:3)
+Ignoring empty pin current: Ix(u5:4)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u6:3)
+Ignoring empty pin current: Ix(u6:4)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u10:1)
+Ignoring empty pin current: Ix(u11:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u3:3)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u4:3)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:3)
+Ignoring empty pin current: Ix(u5:4)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u6:3)
+Ignoring empty pin current: Ix(u6:4)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u10:1)
+Ignoring empty pin current: Ix(u11:1)
+Heightened Def Con from 0.326124 to 0.326124
+
+Date: Fri Jun 19 21:26:34 2020
+Total elapsed time: 61.668 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 447026
+traniter = 445302
+tranpoints = 127913
+accept = 96457
+rejected = 31457
+matrix size = 205
+fillins = 1096
+solver = Normal
+Thread vector: 68.0/34.5[2] 33.2/21.4[2] 11.2/8.4[2] 3.4/3.5[1]  2592/500
+Matrix Compiler1: 123.29 KB object code size  62.7/44.7/[38.8]
+Matrix Compiler2: 36.17 KB object code size  10.3/11.8/[6.5]
+
